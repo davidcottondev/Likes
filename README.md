@@ -1,0 +1,2 @@
+# Likes
+Laravel Likeable Package
